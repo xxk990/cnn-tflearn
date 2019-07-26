@@ -1,2 +1,2 @@
 # cnn-tflearn
-using tf learn build an CNN
+using tflearn build an CNN
